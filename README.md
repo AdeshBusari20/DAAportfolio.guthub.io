@@ -14,16 +14,13 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - Data Structures and Algorithms
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-username)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+- [X](https://x.com/adeshbusari?s=11)
+- [LinkedIn](https://www.linkedin.com/in/adesh-busari-903157287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ## Portfolio Topic
 
-![Project Screenshot](assets/image.jpg)
+![Project Screenshot](e-learning.jpg)
 
-[Check out my Google](https://www.google.com/)<br>
-[Check out a sample Portfolio](https://jiyapalrecha35.github.io/Google.github.io/)<br>
-[Check out this repo](https://github.com/hiteshchoudhary/apihub)<br>
 
 
 [About Me](about.md)
