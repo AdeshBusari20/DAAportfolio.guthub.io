@@ -1,0 +1,128 @@
+Class: Class 8
+Subject: Mathematics
+Chapter 1: Rational Numbers
+Weightage: 4
+Chapter 2: Linear Equations in One Variable
+Weightage: 6
+Chapter 3: Understanding Quadrilaterals
+Weightage: 5
+Chapter 4: Practical Geometry
+Weightage: 4
+Chapter 5: Data Handling
+Weightage: 3
+Chapter 6: Squares and Square Roots
+Weightage: 3
+Chapter 7: Cubes and Cube Roots
+Weightage: 3
+Chapter 8: Comparing Quantities
+Weightage: 4
+Chapter 9: Algebraic Expressions and Identities
+Weightage: 5
+Chapter 10: Visualizing Solid Shapes
+Weightage: 2
+Chapter 11: Mensuration
+Weightage: 5
+Chapter 12: Exponents and Powers
+Weightage: 3
+Chapter 13: Direct and Inverse Proportions
+Weightage: 4
+Chapter 14: Factorization
+Weightage: 3
+Chapter 15: Introduction to Graphs
+Weightage: 2
+Chapter 16: Playing with Numbers
+Weightage: 2
+
+Subject: Science
+Chapter 1: Crop Production and Management
+Weightage: 5
+Chapter 2: Microorganisms: Friend and Foe
+Weightage: 6
+Chapter 3: Synthetic Fibres and Plastics
+Weightage: 4
+Chapter 4: Materials: Metals and Non-Metals
+Weightage: 5
+Chapter 5: Coal and Petroleum
+Weightage: 4
+Chapter 6: Combustion and Flame
+Weightage: 4
+Chapter 7: Conservation of Plants and Animals
+Weightage: 5
+Chapter 8: Cell - Structure and Functions
+Weightage: 6
+Chapter 9: Reproduction in Animals
+Weightage: 5
+Chapter 10: Reaching the Age of Adolescence
+Weightage: 4
+Chapter 11: Force and Pressure
+Weightage: 6
+Chapter 12: Friction
+Weightage: 4
+Chapter 13: Sound
+Weightage: 5
+Chapter 14: Chemical Effects of Electric Current
+Weightage: 4
+Chapter 15: Some Natural Phenomena
+Weightage: 5
+Chapter 16: Light
+Weightage: 6
+Chapter 17: Stars and the Solar System
+Weightage: 4
+Chapter 18: Pollution of Air and Water
+Weightage: 4
+
+Subject: Social Science
+Chapter 1: How, When and Where
+Weightage: 4
+Chapter 2: From Trade to Territory
+Weightage: 5
+Chapter3: Ruling the Countryside 
+Weightage: 5
+Chapter 4: Tribals, Dikus and the Vision of a Golden Age 
+Weightage: 5
+Chapter 5: When People Rebel 
+Weightage: 5
+Chapter 6: Colonialism and the City 
+Weightage: 5
+Chapter 7:  Weavers, Iron Smelters and Factory Owners 
+Weightage: 5
+Chapter 8: Civilising the Native, Educating the Nation 
+Weightage: 5
+Chapter 9: Women, Caste and Reform 
+Weightage: 5
+Chapter 10: The Making of the National Movement 1870s 1947 
+Weightage: 6
+Chapter 11: India After Independence 
+Weightage: 6
+Chapter 12: Resources  
+Weightage: 5
+Chapter 13: Land, Soil, Water, Natural Vegetation and Wildlife Resources  
+Weightage: 6
+Chapter 14: Mineral and Power Resources  
+Weightage: 5
+Chapter 15: Agriculture  
+Weightage: 5
+Chapter 16: Industries  
+Weightage: 5
+Chapter 17: Human Resources 
+Weightage: 5
+Chapter 18: The Indian Constitution  
+Weightage: 5
+Chapter 19: Understanding Secularism  
+Weightage: 5
+Chapter 20: Why Do We Need a Parliament? 
+Weightage: 5
+Chapter 21: Understanding Laws  
+Weightage: 5
+Chapter 22: Judiciary 
+Weightage: 6
+Chapter 23: Understanding Our Criminal Justice System 
+Weightage: 5
+Chapter 24: Understanding Marginalisation 
+Weightage: 5
+Chapter 25: Confronting Marginalisation 
+Weightage: 5
+Chapter 26: Public Facilities 
+Weightage: 5
+Chapter 27: Law and Social Justice  
+Weightage: 5

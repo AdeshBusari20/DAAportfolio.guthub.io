@@ -1,0 +1,117 @@
+Class: Class 10
+Subject: Mathematics
+Chapter 1: Real Numbers
+Weightage: 6 
+Chapter 2: Polynomials
+Weightage: 4 
+Chapter 3: Pair of Linear Equations in Two Variables
+Weightage: 6 
+Chapter 4: Quadratic Equations
+Weightage: 6
+Chapter 5: Arithmetic Progressions
+Weightage: 4 
+Chapter 6: Triangles
+Weightage: 8 
+Chapter 7: Coordinate Geometry
+Weightage: 6 
+Chapter 8: Introduction to Trigonometry
+Weightage: 7 
+Chapter 9: Some Applications of Trigonometry
+Weightage: 5 
+Chapter 10: Circles
+Weightage: 7 
+Chapter 11: Areas Related to Circles
+Weightage: 4 
+Chapter 12: Surface Areas and Volumes
+Weightage: 6 
+Chapter 13: Statistics
+Weightage: 6 
+Chapter 14: Probability
+Weightage: 5 
+
+Subject: Science
+Chapter 1: Chemical Reactions and Equations
+Weightage: 5 
+Chapter 2: Acids, Bases and Salts
+Weightage: 6
+Chapter 3: Metals and Non-Metals
+Weightage: 5 
+Chapter 4: Carbon and its Compounds
+Weightage: 6 
+Chapter 5: Periodic Classification of Elements
+Weightage: 5 
+Chapter 6: Life Processes
+Weightage: 6 
+Chapter 7: Control and Coordination
+Weightage: 7 
+Chapter 8: How do Organisms Reproduce?
+Weightage: 6 
+Chapter 9: Heredity and Evolution
+Weightage: 6 
+Chapter 10: Light
+Weightage: 5 
+Chapter 11: Human Eye and Colourful World
+Weightage: 4
+Chapter 12: Electricity
+Weightage: 6 
+Chapter 13: Magnetic Effects of Current
+Weightage: 6 
+5. Natural Resources
+Chapter 14: Sources of Energy
+Weightage: 5 
+Chapter 15: Our Environment
+Weightage: 4 
+Chapter 16: Management of Natural Resources
+Weightage: 5 
+
+Subject: Social Science
+Chapter 1: The Rise of Nationalism in Europe
+Weightage: 6 
+Chapter 2: Nationalism in India
+Weightage: 6 
+Chapter 3: The Making of a Global World
+Weightage: 7
+Chapter 4: The Age of Industrialization
+Weightage: 6 
+Chapter 5: Print Culture and the Modern World
+Weightage: 4
+Chapter 6: Resources and Development
+Weightage: 6 
+Chapter 7: Forest and Wildlife Resources
+Weightage: 3 
+Chapter 8: Water Resource
+Weightage: 6 
+Chapter 9: Agriculture
+Weightage: 6 
+Chapter 10: Minerals and Energy Resources
+Weightage: 5 
+Chapter 11: Manufacturing Industries
+Weightage: 6 
+Chapter 12: Lifelines of National Economy
+Weightage: 9
+Chapter 13: Power Sharing
+Weightage: 6 
+Chapter 14: Federalism
+Weightage: 6 
+Chapter 15: Democracy and Diversity
+Weightage: 6 
+Chapter 16: Gender, Religion and Caste
+Weightage: 4 
+Chapter 17: Popular Struggles and Movements
+Weightage: 6 
+Chapter 18: Political Parties
+Weightage: 6 
+Chapter 19: Outcomes of Democracy
+Weightage: 10
+Chapter 20: Development
+Weightage: 6 
+Chapter 21: Sectors of the Indian Economy
+Weightage: 6 
+Chapter 22: Money and Credit
+Weightage: 6 
+Chapter 23: Globalization and the Indian Economy
+Weightage: 6 
+Chapter 14: Consumer Rights
+Weightage: 8
+
+

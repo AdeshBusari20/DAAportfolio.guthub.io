@@ -1,0 +1,94 @@
+Class: Class 9
+Subject: Mathematics
+Chapter 1: Number Systems
+Weightage: 10
+Chapter 2: Polynomials
+Weightage: 6
+Chapter 3: Coordinate Geometry
+Weightage: 5
+Chapter 4: Linear Equations in Two Variables
+Weightage: 4
+Chapter 5: Introduction to Euclid’s Geometry
+Weightage: 5
+Chapter 6: Lines and Angles
+Weightage: 3
+Chapter 7: Triangles
+Weightage: 6
+Chapter 8: Quadrilaterals
+Weightage: 4
+Chapter 9: Areas of Parallelograms and Triangles
+Weightage: 5
+Chapter 10: Circles
+Weightage: 2
+Chapter 11: Constructions
+Weightage: 5
+Chapter 12: Surface Areas and Volumes
+Weightage: 10
+Chapter 13: Statistics
+Weightage: 6
+Chapter 14: Probability
+Weightage: 4
+
+Subject: Science
+Chapter 1: Matter in Our Surroundings
+Weightage: 7
+Chapter 2: Is Matter Around Us Pure?
+Weightage: 3
+Chapter 3: Atoms and Molecules
+Weightage: 4
+Chapter 4: Structure of the Atom
+Weightage: 9
+Chapter 5: Fundamental Unit of Life
+Weightage: 5
+Chapter 6: Tissues
+Weightage: 5
+Chapter 7: Diversity in Living World
+Weightage: 7
+Chapter 8: Motion
+Weightage: 6
+Chapter 9: Force and Laws of Motion
+Weightage: 6
+Chapter 10: Gravitation
+Weightage: 5
+Chapter 11: Work and Energy
+Weightage: 6
+Chapter 12: Sound
+Weightage: 7
+Chapter 13: Why Do We Fall Ill?
+Weightage: 4
+Chapter 14: Natural Resources
+Weightage: 5
+Chapter 15: Improvement in Food Resources
+Weightage: 5
+
+Subject: Social Science
+Chapter 1: The French Revolution
+Weightage: 6 
+Chapter 2: Socialism in Europe and the Russian Revolution
+Weightage: 6 
+Chapter 3: Nazism and the Rise of Hitler
+Weightage: 6 
+Chapter 4: Forest Society and Colonialism
+Weightage: 6 
+Chapter 5: Pastoralists in the Modern World
+Weightage: 6 
+Chapter 6: India Size and Location
+Weightage: 4 
+Chapter 7: Physical Features of India
+Weightage: 5 
+Chapter 8: Drainage
+Weightage: 5
+Chapter 9: Climate
+Weightage: 5 
+Chapter 10: Natural Vegetation and Wildlife
+Weightage: 4 
+Chapter 11: Population
+Weightage: 5 
+Chapter 12: What is Democracy? Why Democracy?
+Weightage: 3 
+Chapter 13: Constitutional Design
+Weightage: 5 
+Chapter 14: The Story of Village Palampur
+Weightage: 4
+Chapter 15: People as Resource
+Weightage: 5 

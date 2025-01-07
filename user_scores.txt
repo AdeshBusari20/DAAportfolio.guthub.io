@@ -1,0 +1,170 @@
+Username: Nisha, Subject: Chemistry, Chapter: Inorganic, Marks: 83
+Username: Arnav, Subject: Physics, Chapter: Thermodynamics, Marks: 77
+Username: user3, Subject: Physics, Chapter: Thermodynamics, Marks: 53
+Username: Advika, Subject: Chemistry, Chapter: Organic, Marks: 95
+Username: Yash, Subject: Physics, Chapter: Mechanics, Marks: 77
+Username: Aarav, Subject: Math, Chapter: Trigonometry, Marks: 41
+Username: Dia, Subject: Physics, Chapter: Thermodynamics, Marks: 73
+Username: Ira, Subject: Physics, Chapter: Mechanics, Marks: 24
+Username: Zara, Subject: Physics, Chapter: Thermodynamics, Marks: 23
+Username: Saanvi, Subject: Physics, Chapter: Optics, Marks: 23
+Username: Avni, Subject: Math, Chapter: Geometry, Marks: 43
+Username: Rohan, Subject: Physics, Chapter: Mechanics, Marks: 70
+Username: Karan, Subject: Physics, Chapter: Mechanics, Marks: 89
+Username: Krishna, Subject: Chemistry, Chapter: Inorganic, Marks: 56
+Username: Om, Subject: Math, Chapter: Algebra, Marks: 37
+Username: Rohan2, Subject: Math, Chapter: Geometry, Marks: 54
+Username: Saanvi2, Subject: Chemistry, Chapter: Inorganic, Marks: 9
+Username: Aarav2, Subject: Chemistry, Chapter: Inorganic, Marks: 45
+Username: Tara, Subject: Chemistry, Chapter: Organic, Marks: 86
+Username: Moksh, Subject: Chemistry, Chapter: Organic, Marks: 30
+Username: Avni2, Subject: Physics, Chapter: Thermodynamics, Marks: 93
+Username: Ishanvi, Subject: Math, Chapter: Trigonometry, Marks: 5
+Username: Riya, Subject: Physics, Chapter: Mechanics, Marks: 89
+Username: Aditi, Subject: Chemistry, Chapter: Physical, Marks: 47
+Username: Zara3, Subject: Math, Chapter: Algebra, Marks: 14
+Username: Zara2, Subject: Math, Chapter: Geometry, Marks: 36
+Username: Laksh, Subject: Physics, Chapter: Mechanics, Marks: 29
+Username: Neel, Subject: Physics, Chapter: Optics, Marks: 4
+Username: Neel2, Subject: Physics, Chapter: Thermodynamics, Marks: 24
+Username: Arjun, Subject: Physics, Chapter: Mechanics, Marks: 62
+Username: Kavya, Subject: Math, Chapter: Geometry, Marks: 92
+Username: Kavya, Subject: Chemistry, Chapter: Inorganic, Marks: 59
+Username: Pari, Subject: Physics, Chapter: Optics, Marks: 65
+Username: Pranav, Subject: Chemistry, Chapter: Physical, Marks: 82
+Username: Kabir, Subject: Chemistry, Chapter: Organic, Marks: 3
+Username: Ishaan, Subject: Math, Chapter: Trigonometry, Marks: 84
+Username: Avni3, Subject: Physics, Chapter: Optics, Marks: 34
+Username: Dia2, Subject: Physics, Chapter: Thermodynamics, Marks: 99
+Username: Ira2, Subject: Physics, Chapter: Optics, Marks: 46
+Username: Rhea, Subject: Chemistry, Chapter: Inorganic, Marks: 4
+Username: Neel3, Subject: Chemistry, Chapter: Inorganic, Marks: 69
+Username: Avni4, Subject: Math, Chapter: Trigonometry, Marks: 27
+Username: Ayaan, Subject: Math, Chapter: Geometry, Marks: 9
+Username: Laksh2, Subject: Chemistry, Chapter: Inorganic, Marks: 77
+Username: Aditi2, Subject: Physics, Chapter: Optics, Marks: 96
+Username: Ayaan2, Subject: Physics, Chapter: Thermodynamics, Marks: 7
+Username: Rudra, Subject: Math, Chapter: Algebra, Marks: 5
+Username: Riya2, Subject: Math, Chapter: Trigonometry, Marks: 58
+Username: Meera, Subject: Physics, Chapter: Mechanics, Marks: 57
+Username: Advika2, Subject: Chemistry, Chapter: Organic, Marks: 8
+Username: Pari2, Subject: Physics, Chapter: Thermodynamics, Marks: 100
+Username: Diya, Subject: Chemistry, Chapter: Organic, Marks: 82
+Username: Vihaan, Subject: Math, Chapter: Trigonometry, Marks: 58
+Username: Diya2, Subject: Chemistry, Chapter: Organic, Marks: 57
+Username: Aryan, Subject: Math, Chapter: Trigonometry, Marks: 36
+Username: Yuvraj, Subject: Physics, Chapter: Thermodynamics, Marks: 9
+Username: Shreya, Subject: Physics, Chapter: Mechanics, Marks: 45
+Username: Rudra2, Subject: Physics, Chapter: Thermodynamics, Marks: 86
+Username: Kavya2, Subject: Physics, Chapter: Optics, Marks: 46
+Username: Dia3, Subject: Math, Chapter: Trigonometry, Marks: 75
+Username: Tara2, Subject: Physics, Chapter: Mechanics, Marks: 75
+Username: Ayaan3, Subject: Chemistry, Chapter: Inorganic, Marks: 87
+Username: Ananya, Subject: Math, Chapter: Trigonometry, Marks: 60
+Username: Kavya3, Subject: Physics, Chapter: Thermodynamics, Marks: 60
+Username: Anvi, Subject: Chemistry, Chapter: Inorganic, Marks: 12
+Username: Nisha2, Subject: Math, Chapter: Geometry, Marks: 44
+Username: Pari3, Subject: Math, Chapter: Algebra, Marks: 79
+Username: Ira3, Subject: Chemistry, Chapter: Organic, Marks: 76
+Username: Ishaan2, Subject: Chemistry, Chapter: Inorganic, Marks: 43
+Username: Ananya2, Subject: Math, Chapter: Algebra, Marks: 14
+Username: Avni5, Subject: Chemistry, Chapter: Inorganic, Marks: 21
+Username: Om2, Subject: Chemistry, Chapter: Physical, Marks: 23
+Username: Rudra3, Subject: Math, Chapter: Geometry, Marks: 12
+Username: Saanvi2, Subject: Chemistry, Chapter: Physical, Marks: 63
+Username: Moksh2, Subject: Physics, Chapter: Mechanics, Marks: 64
+Username: Advika3, Subject: Chemistry, Chapter: Inorganic, Marks: 20
+Username: Ayaan4, Subject: Chemistry, Chapter: Inorganic, Marks: 47
+Username: Mira, Subject: Chemistry, Chapter: Inorganic, Marks: 34
+Username: Zara4, Subject: Chemistry, Chapter: Physical, Marks: 97
+Username: Pari4, Subject: Chemistry, Chapter: Organic, Marks: 21
+Username: Om3, Subject: Chemistry, Chapter: Organic, Marks: 46
+Username: Anila2, Subject: Math, Chapter: Geometry, Marks: 63
+Username: user83, Subject: Chemistry, Chapter: Inorganic, Marks: 8
+Username: Aarohi, Subject: Math, Chapter: Trigonometry, Marks: 88
+Username: Aayush, Subject: Math, Chapter: Algebra, Marks: 74
+Username: Aditya, Subject: Chemistry, Chapter: Physical, Marks: 13
+Username: Aishwarya, Subject: Math, Chapter: Algebra, Marks: 5
+Username: Akash, Subject: Math, Chapter: Geometry, Marks: 20
+Username: Alok, Subject: Chemistry, Chapter: Physical, Marks: 85
+Username: Anika3, Subject: Math, Chapter: Geometry, Marks: 39
+Username: Anirudh, Subject: Physics, Chapter: Mechanics, Marks: 46
+Username: Anjali, Subject: Chemistry, Chapter: Physical, Marks: 65
+Username: Ankit, Subject: Chemistry, Chapter: Organic, Marks: 53
+Username: Anushka, Subject: Math, Chapter: Geometry, Marks: 50
+Username: Arun, Subject: Physics, Chapter: Thermodynamics, Marks: 93
+Username: Aryan2, Subject: Math, Chapter: Geometry, Marks: 27
+Username: Ashish, Subject: Chemistry, Chapter: Organic, Marks: 8
+Username: Bhumika, Subject: Physics, Chapter: Optics, Marks: 33
+Username: Chirag, Subject: Physics, Chapter: Mechanics, Marks: 19
+Username: Deeksha, Subject: Chemistry, Chapter: Physical, Marks: 81
+Username: Deepak, Subject: Chemistry, Chapter: Organic, Marks: 93
+Username: Divya, Subject: Chemistry, Chapter: Physical, Marks: 18
+Username: Gaurav, Subject: Chemistry, Chapter: Inorganic, Marks: 66
+Username: Harish, Subject: Chemistry, Chapter: Organic, Marks: 86
+Username: Ishita, Subject: Math, Chapter: Trigonometry, Marks: 9
+Username: Jatin, Subject: Chemistry, Chapter: Physical, Marks: 81
+Username: Kiran, Subject: Chemistry, Chapter: Physical, Marks: 50
+Username: Krish, Subject: Chemistry, Chapter: Inorganic, Marks: 20
+Username: Madhav, Subject: Physics, Chapter: Mechanics, Marks: 42
+Username: Meera2, Subject: Chemistry, Chapter: Physical, Marks: 90
+Username: Mohit, Subject: Math, Chapter: Trigonometry, Marks: 46
+Username: Naman, Subject: Chemistry, Chapter: Physical, Marks: 32
+Username: Nandini, Subject: Math, Chapter: Geometry, Marks: 89
+Username: Nishant, Subject: Physics, Chapter: Mechanics, Marks: 9
+Username: Pallavi, Subject: Physics, Chapter: Thermodynamics, Marks: 38
+Username: Pooja, Subject: Math, Chapter: Algebra, Marks: 64
+Username: Pranav2, Subject: Physics, Chapter: Mechanics, Marks: 75
+Username: Rajesh, Subject: Physics, Chapter: Optics, Marks: 49
+Username: Rakesh, Subject: Physics, Chapter: Mechanics, Marks: 2
+Username: Rishabh, Subject: Chemistry, Chapter: Organic, Marks: 26
+Username: Riya3, Subject: Math, Chapter: Geometry, Marks: 77
+Username: Rohit, Subject: Math, Chapter: Trigonometry, Marks: 94
+Username: Sakshi, Subject: Math, Chapter: Algebra, Marks: 44
+Username: Sanjay, Subject: Chemistry, Chapter: Organic, Marks: 31
+Username: Shikha, Subject: Chemistry, Chapter: Physical, Marks: 17
+Username: Shreya2, Subject: Chemistry, Chapter: Inorganic, Marks: 66
+Username: Siddharth, Subject: Physics, Chapter: Thermodynamics, Marks: 1
+Username: Sneha, Subject: Chemistry, Chapter: Physical, Marks: 8
+Username: Tarun, Subject: Chemistry, Chapter: Organic, Marks: 48
+Username: Tanya, Subject: Physics, Chapter: Optics, Marks: 13
+Username: Varun, Subject: Math, Chapter: Algebra, Marks: 54
+Username: Vidya, Subject: Physics, Chapter: Thermodynamics, Marks: 28
+Username: Amit, Subject: Physics, Chapter: Thermodynamics, Marks: 62
+Username: Bhavya, Subject: Chemistry, Chapter: Physical, Marks: 12
+Username: Charu, Subject: Chemistry, Chapter: Organic, Marks: 74
+Username: Darsh, Subject: Physics, Chapter: Optics, Marks: 43
+Username: Esha, Subject: Chemistry, Chapter: Physical, Marks: 51
+Username: Fahad, Subject: Physics, Chapter: Optics, Marks: 87
+Username: Gauri, Subject: Math, Chapter: Trigonometry, Marks: 61
+Username: Hardik, Subject: Math, Chapter: Algebra, Marks: 94
+Username: Ishan, Subject: Chemistry, Chapter: Organic, Marks: 31
+Username: Jaya, Subject: Chemistry, Chapter: Inorganic, Marks: 5
+Username: Kunal, Subject: Math, Chapter: Geometry, Marks: 40
+Username: Lavanya, Subject: Physics, Chapter: Mechanics, Marks: 90
+Username: Mira2, Subject: Chemistry, Chapter: Physical, Marks: 63
+Username: Niharika, Subject: Physics, Chapter: Mechanics, Marks: 55
+Username: Omkar, Subject: Math, Chapter: Geometry, Marks: 20
+Username: Pavan, Subject: Physics, Chapter: Thermodynamics, Marks: 59
+Username: Ritika, Subject: Chemistry, Chapter: Physical, Marks: 52
+Username: Sahil, Subject: Chemistry, Chapter: Inorganic, Marks: 82
+Username: Tina, Subject: Math, Chapter: Algebra, Marks: 69
+Username: Uday, Subject: Math, Chapter: Algebra, Marks: 69
+Username: user200, Subject: Math, Chapter: Trigonometry, Marks: 94
+Username: adeshb, Subject: Science, Chapter: Chapter 2: Microorganisms: Friend and Foe, Marks: 60
+Username: Arnav, Subject: Science, Chapter: Chapter 2: Acids, Bases, and Salts, Marks: 50
+Username: Adeshb, Subject: Mathematics, Chapter: Chapter 1: Number Systems, Marks: 40
+Username: Adeshb, Subject: Science, Chapter: Chapter 1: Crop Production and Management, Marks: 100
+Username: Adeshb, Subject: Mathematics, Chapter: Chapter 3: Understanding Quadrilaterals, Marks: 60
+Username: Adeshb, Subject: Science, Chapter: Chapter 3: Synthetic Fibres and Plastics, Marks: 100
+Username: Disha, Subject: Science, Chapter: Chapter 2: Acids, Bases, and Salts, Marks: 100
+Username: Disha, Subject: Mathematics, Chapter: Chapter 1: Real Numbers, Marks: 90
+Username: Adeshb, Subject: Science, Chapter: Chapter 1: Matter in Our Surroundings, Marks: 100
+Username: Adeshb, Subject: Science, Chapter: Chapter 3: Synthetic Fibres and Plastics, Marks: 80
+Username: Adeshb, Subject: Science, Chapter: Chapter 4: Structure of the Atom, Marks: 80
+Username: Adeshb, Subject: Mathematics, Chapter: Chapter 7: Triangles, Marks: 90
+Username: Adeshb, Subject: Science, Chapter: Chapter 4: Structure of the Atom, Marks: 80
+Username: Adeshb, Subject: Mathematics, Chapter: Chapter 2: Polynomials, Marks: 59
+Username: Adeshb, Subject: Science, Chapter: Chapter 15: Improvement in Food Resources, Marks: 80
+Username: Adeshb, Subject: Mathematics, Chapter: Chapter 12: Statistics, Marks: 88
+Username: Adeshb, Subject: Science, Chapter: Chapter 8: Motion, Marks: 80
