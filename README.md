@@ -28,21 +28,15 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 [About Me](about.md)
 
-<dl>
-<dt>Course Name</dt>
-<dd>Algorithmic Problem Solving</dd>
-<dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
-<dt>Name</dt>
-<dd>Your Name</dd>
-<dt>SRN</dt>
-<dd>Your SRN</dd>
-<dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
-<dt>University</dt>
-<dd>Your University Name</dd>
-<dt>Portfolio Topic/Domain</dt>
-<dd>Google</dd>
+**Course Name**: Algorithms Lab 
+**Course Code**: 24ECAP202  
+**Name**: Adesh Busari
+**SRN**: 02FE23BCS166
+**Course Instructor**: Dr.Vaishali Parab
+**University**:KLE TECHNOLOGICAL UNIVERSITY
+**Topic**: E-Learning Platform with Adaptive Learning.
+---
+
 </dl>
 
 <br> 
