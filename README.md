@@ -29,13 +29,19 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 [About Me](about.md)
 
 **Course Name**: Algorithms Lab 
-**Course Code**: 24ECAP202  
+
+**Course Code**: 24ECSP205
+
 **Name**: Adesh Busari
-**SRN**: 02FE23BCS166
+
+**SRN**: 02FE23BCS165
+
 **Course Instructor**: Dr.Vaishali Parab
+
 **University**:KLE TECHNOLOGICAL UNIVERSITY
+
 **Topic**: E-Learning Platform with Adaptive Learning.
----
+
 
 </dl>
 
